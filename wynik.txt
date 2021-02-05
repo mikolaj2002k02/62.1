@@ -1,0 +1,2 @@
+Najmniejsza: 0
+Najwieksza: 777044
